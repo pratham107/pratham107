@@ -52,7 +52,7 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pratham107?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
