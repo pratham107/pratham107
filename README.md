@@ -40,12 +40,13 @@
 </p>
 
 <p align="center">
-  <img <img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham107&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham107&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+
 
 ---
 
