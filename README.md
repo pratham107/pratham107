@@ -34,18 +34,17 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham107&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pratham107&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham107&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+
 
 
 ---
