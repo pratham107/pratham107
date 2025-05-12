@@ -40,11 +40,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham107&theme=tokyonight" alt="GitHub Streak" />
+  <img <img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight" alt="GitHub Streak"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham107&theme=tokyo-night" alt="Contribution Graph" />
+  <img <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham107&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
