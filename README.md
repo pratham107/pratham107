@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prathmesh%20Bhopale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Pune%2C%20India&descAlignY=60&descSize=18" width="100%"/>
-
 <p align="center">
   <img src="assets/banner.svg" alt="Animated banner" width="100%"/>
 </p>
@@ -8,12 +6,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+CentraLogic;Node.js+%7C+NestJS+%7C+TypeScript;Building+scalable+backends+%26+clean+UIs;Cut+API+response+time+by+40%25+%E2%9A%A1;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratham107&label=Profile%20views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pratham107?style=for-the-badge&logo=github&color=6a11cb" />
-  <img src="https://img.shields.io/badge/Pune-India-ff5f6d?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -122,6 +114,10 @@
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/6a11cb/pratham107" alt="GitHub day-wise contributions" width="90%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham107&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
@@ -130,7 +126,11 @@
 ## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=activity" alt="LeetCode Activity" />
 </p>
 
 ---
