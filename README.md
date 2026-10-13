@@ -125,20 +125,12 @@
 
 ## 🧠 LeetCode
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=activity" alt="LeetCode Activity" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratham107/pratham107/output/github-snake-dark.svg" width="100%"/>
 </p>
 
 ---
