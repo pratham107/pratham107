@@ -104,13 +104,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratham107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham107&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratham107&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pratham107&hide_border=true&background=1A1A1A&ring=FFA116&fire=FFA116&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA116&sideLabels=B3B3B3&dates=8C8C8C&stroke=333333" />
 </p>
 
 <p align="center">
@@ -125,13 +125,13 @@
 
 ## 🧠 LeetCode
 
-<!-- <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Heatmap" />
-</p> -->
-
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Heatmap" />
+</p> 
+
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prathamesh28?theme=dark&font=Roboto&ext=activity" alt="LeetCode Activity" />
-</p>
+</p> -->
 
 ---
 
